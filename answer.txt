@@ -1,0 +1,47 @@
+
+
+1. Cube1(x1, y1, z1, x2, y2, z2) = Cube1( 1, 0, 0, 5, -4, 4 )
+2. Cube2(x1, y1, z1, x2, y2, z2) = Cube2( 2, -2, 2, 6, -6, 6 )
+3. Volume of interference part is: 12
+4. Cube2 volumn after shrink : 8
+5. Two diagnol coordinates of Cube2 :
+the x1 is 2
+the y1 is -2
+the z1 is 2
+the x2 is 4
+the y2 is -4
+the z2 is 4
+
+
+6. Cuboid1(x1, y1, z1, x2, y2, z2) = Cuboid1( -2, -2, -2, 3, 4, 5 )
+7. Cuboid4(x1, y1, z1, x2, y2, z2) = Cuboid4( -2, -2, -2, 3, 4, 5 )
+8. Volume of interference part is: 210
+9. Cuboid4 volumn after shrink : 26.25
+10. Two diagnol coordinates of Cuboid4 :
+the x1 is -2
+the y1 is -2
+the z1 is -2
+the x2 is -1.375
+the y2 is 4
+the z2 is 5
+
+
+11. Cube3(x1, y1, z1, x2, y2, z2) = Cube3( 0, 0, 0, 8, 8, 8 )
+12. Cuboid3(x1, y1, z1, x2, y2, z2) = Cuboid3( 4, 4, 4, 10, 7, 10 )
+13. Volume of interference part is: 48
+14. Cuboid3 volumn after shrink : 54
+15. Two diagnol coordinates of Cuboid3 :
+the x1 is 4
+the y1 is 4
+the z1 is 4
+the x2 is 7
+the y2 is 7
+the z2 is 10
+16. Cuboid3 volumn after enlarge : 169.56
+17. Two diagnol coordinates of Cuboid3 :
+the x1 is 4
+the y1 is 4
+the z1 is 4
+the x2 is 13.42
+the y2 is 7
+the z2 is 10
